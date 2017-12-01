@@ -1,4 +1,5 @@
-# Hello, World!
+#  Vademecum per i ricercatori per pubblicare Open Access 
+Ornella Russo, Alessandro Sarretta, Silvana Mangiaracina
  
 ---
  
