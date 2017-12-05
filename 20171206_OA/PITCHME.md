@@ -1,9 +1,9 @@
-#  Vademecum per i ricercatori per pubblicare Open Access 
+##  Vademecum per i ricercatori per pubblicare Open Access 
 Ornella Russo, Alessandro Sarretta, Silvana Mangiaracina
  
 ---
  
-## The End.
+---?image=assets/OAJournalGuide.png
  
 ---
  
