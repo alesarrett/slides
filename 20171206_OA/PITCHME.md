@@ -3,7 +3,11 @@ Ornella Russo, Alessandro Sarretta, Silvana Mangiaracina
 
 ---
 
-![OA](.assets/OAJournalGuide.png)
+![OA](/assets/OAJournalGuide.png)
+
+
+---
+
 
 ---?image=assets/OAJournalGuide.png
  
